@@ -58,11 +58,33 @@ Ouvir em segundo plano;
   
 Amazon Music-
 Cabeçalho:
-
-Corpo do texto:
-
+ notificações 
+ configurações
+Corpo do aplicativo:
+  destaques playlists
 Rodapé:
-
+  inicio
+  encontrar
+  biblioteca
+  alexa
 Versão paga:
-
+  Sem anúncios;
+  Músicas e podcasts Online e offline;
+  Ouvir em segundo plano;
+  Amazon Prime e Amozon Music;
 Diferenciais:
+  conectividade alexa e Amazon
+  
+Elementos aprensentados na tela:
+Obs: De forma geral todos utilizam-se deste elementos.
+
+Scrowview ou listview - barra de rolagem.
+image button - display musica.
+button- display musica / separação de abas ou tipos de musica. 
+textview - titulo e subtitulo.
+Video view- dependendo da musica.
+HorinzontalScrowview- barra de rolagem horizontal.
+
+
+Anotações finais:
+   De certo modo os três aplicativos são iguais em sentido de programação, o que mudam são os planos e a organização de playlist e abas, e no caso do YouTube Music e Amazo Music a conectividade.
