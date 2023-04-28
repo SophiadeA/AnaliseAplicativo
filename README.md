@@ -37,6 +37,7 @@ Versão Paga:
   Musica em segundo plano;
   Possibilidade de baixar a musica;
   
+  
 Spotify -
 
  Cabeçalho:
@@ -85,6 +86,11 @@ textview - titulo e subtitulo.
 Video view- dependendo da musica.
 HorinzontalScrowview- barra de rolagem horizontal.
 
+Navegação:
+ A navegação é a mesma.
+  Separação por seções que pode ser roladas horizontalmente, no qual a diferças abas e pasta, com pesquisa para encontrar o que é necessario com mais rapidez.
+  Ou seja a navegação desses apps é igual ao explorador de arquivos, abas, pastas e pesquisa só que em forma dinamica.
+  Diferença: Nome das seções e funções.
 
 Anotações finais:
-   De certo modo os três aplicativos são iguais em sentido de programação, o que mudam são os planos e a organização de playlist e abas, e no caso do YouTube Music e Amazo Music a conectividade.
+   De certo modo os três aplicativos são iguais em sentido de programação na sua tela inicial de forma visual, o que mudam são os planos, a organização de playlist e abas e modo de navegação, e no caso do YouTube Music e Amazo Music a conectividade.
